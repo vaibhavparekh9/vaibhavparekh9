@@ -34,4 +34,5 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavparekh9&style=flat)
+
