@@ -1,9 +1,9 @@
-# Hi there, I am Vaibhav Parekh! 
-🎓 I am a Graduate Student at Carnegie Mellon University, and I BUILD ROBOTS 
-🧑‍💻 I research at CERLAB (Computational Engineering and Robotics Laboratory) on problems around Perception and Front-end SLAM 
-🤖 Welcome to my GitHub; you can find my projects spanning Computer Vision, Planning, SLAM, and Controls
+### Hi there, I am Vaibhav Parekh!\
+🎓 I am a Graduate Student at Carnegie Mellon University, and I BUILD ROBOTS\
+🧑‍💻 I research at CERLAB (Computational Engineering and Robotics Laboratory) on problems around Perception and Front-end SLAM\
+🤖 Welcome to my GitHub; you can find my projects spanning Computer Vision, Planning, SLAM, and Controls\
 ---
-### 🛠️ Skills
+### 🛠️ Skills\
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
