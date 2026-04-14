@@ -10,7 +10,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Simulink](https://img.shields.io/badge/Simulink-ff6600?style=flat)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-blue?style=flat)
