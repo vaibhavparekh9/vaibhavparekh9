@@ -4,8 +4,6 @@
 🧑‍💻 I research at CERLAB (Computational Engineering and Robotics Laboratory) on problems around Perception and Front-end SLAM \
 🤖 Welcome to my GitHub; you can find my projects spanning Computer Vision, Planning, SLAM, and Controls  
 
-<hr style="height:1px; border:none; background-color:gray"> --- </hr> 
-
 🛠️ **Skills**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
