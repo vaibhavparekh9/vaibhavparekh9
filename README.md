@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=matlab)
 ![Simulink](https://img.shields.io/badge/Simulink-ff6600?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat&logo=yolo)
@@ -23,13 +23,13 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-2C2D72?style=flat)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia)
 ![Webots](https://img.shields.io/badge/Webots-000000?style=flat)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavparekh9&style=flat)
 
