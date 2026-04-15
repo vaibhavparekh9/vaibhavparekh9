@@ -11,7 +11,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Simulink](https://img.shields.io/badge/Simulink-ff6600?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=flat&logo=https://cdn.simpleicons.org/yolo)
+![YOLO](https://img.shields.io/badge/YOLO-black?style=flat&logo=yolo)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-blue?style=flat&logo=mediapipe)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia)
