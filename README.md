@@ -11,8 +11,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 ![Simulink](https://img.shields.io/badge/Simulink-ff6600?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=flat)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-blue?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-black?style=flat&logo=https://cdn.simpleicons.org/yolo)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-blue?style=flat&logo=mediapipe)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake)
@@ -27,9 +27,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavparekh9&style=flat)
 
