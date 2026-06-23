@@ -18,9 +18,12 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros)
 ![Gazebo](https://img.shields.io/badge/Gazebo-2C2D72?style=flat)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat&logo=ros)
+![Foxglove](https://img.shields.io/badge/Foxglove-7B61FF?style=flat)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia)
 ![Webots](https://img.shields.io/badge/Webots-000000?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
